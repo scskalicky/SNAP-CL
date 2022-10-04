@@ -21,6 +21,11 @@
     - Connects to Google Drive (can be useful for file input/output)
 
 
+# Text Cells
+
+- Text Cells include text in markdown format, allowing for you to include traditional writing separated from the code cells. 
+- Markdown has an easy to learn syntax for formatting text - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
 # Code Cells
 
 - Code cells have two primary inputs:
