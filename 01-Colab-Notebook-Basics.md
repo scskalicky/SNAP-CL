@@ -25,6 +25,7 @@
 
 - Text Cells include text in markdown format, allowing for you to include traditional writing separated from the code cells. 
 - Markdown has an easy to learn syntax for formatting text - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+- (This document was written using markdown!)
 
 # Code Cells
 
