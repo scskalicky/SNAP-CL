@@ -45,5 +45,5 @@ A code cell which has encountered an error (red ! and error message)
 
 - Notebooks connect to server hosted by Google
 
-![connecting_to_colab](https://user-images.githubusercontent.com/16119098/193927899-66782b96-6d2f-46a4-9aae-311785f5e973.gif)
+![Oct-05-2022 10-04-14](https://user-images.githubusercontent.com/16119098/193928316-7295677b-dec7-4baf-82ba-665912ea8c44.gif)
 
