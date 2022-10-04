@@ -51,7 +51,8 @@ A code cell which has encountered an error (red ! and error message)
 
 - Sometimes the output of a code cell can get quite long. One quick solution is that you can click the "x" to clear the output. 
 
-![clearing_output](https://user-images.githubusercontent.com/16119098/193929692-0c6579ef-86fc-4688-be98-ae5b96b2840c.gif)
+![clear_colab_output](https://user-images.githubusercontent.com/16119098/193930237-80aeeb09-991e-40b1-844c-675e102a9962.gif)
+
 
 
 
