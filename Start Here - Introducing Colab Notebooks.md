@@ -47,3 +47,11 @@ A code cell which has encountered an error (red ! and error message)
 
 ![Oct-05-2022 10-04-14](https://user-images.githubusercontent.com/16119098/193928316-7295677b-dec7-4baf-82ba-665912ea8c44.gif)
 
+# Clearing Code Cells
+
+- Sometimes the output of a code cell can get quite long. One quick solution is that you can click the "x" to clear the output. 
+
+![clearing_output](https://user-images.githubusercontent.com/16119098/193929692-0c6579ef-86fc-4688-be98-ae5b96b2840c.gif)
+
+
+
