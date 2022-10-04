@@ -45,6 +45,5 @@ A code cell which has encountered an error (red ! and error message)
 
 - Notebooks connect to server hosted by Google
 
-![connnecting](https://user-images.githubusercontent.com/16119098/193925160-31fbaf65-dfbf-4708-a369-c5c46accb904.gif)
 
 
