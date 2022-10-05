@@ -6,7 +6,7 @@
     - A series of “cells” in a notebook
 
 - Text Cells
-    - cells which allow markdown format text, imaged, etc.
+    - cells which allow markdown format text, images, etc.
 
 - Code Cells
     - cells which run code (i.e., Python)
