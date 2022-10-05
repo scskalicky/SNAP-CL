@@ -50,6 +50,8 @@ A code cell which has encountered an error (red ! and error message)
 # Internet required
 
 - Notebooks connect to server hosted by Google
+- Notebooks will automatically connect when you run a code cell, and you can also manually connect
+- Notebooks will disconnect after idle or if you close them. 
 
 ![Oct-05-2022 10-04-14](https://user-images.githubusercontent.com/16119098/193928316-7295677b-dec7-4baf-82ba-665912ea8c44.gif)
 
